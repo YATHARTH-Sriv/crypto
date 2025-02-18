@@ -11,5 +11,8 @@ I am Yatharth a Web3 Full Stack dev, I have been building projects around web3 a
     Live Link: https://yatharthportfolio.vercel.app/
 
 
-    Blog: [Blog](https://yatharthportfolio.vercel.app/)
+    Blog: https://yatharthportfolio.vercel.app/
 
+  2. Understand Solana
+
+    Blog: https://yatharthportfolio.vercel.app/
