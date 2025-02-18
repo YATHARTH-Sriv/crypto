@@ -8,8 +8,8 @@ I am Yatharth a Web3 Full Stack dev, I have been building projects around web3 a
 
   1. Wallet
   
-    Live Link:
+    Live Link: https://yatharthportfolio.vercel.app/
 
 
-    Blog:
+    Blog: [Blog](https://yatharthportfolio.vercel.app/)
 
