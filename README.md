@@ -8,7 +8,7 @@ I am Yatharth a Web3 Full Stack dev, I have been building projects around web3 a
 
   1. Wallet
   
-    Live Link: https://yatharthportfolio.vercel.app/
+    Live Link: https://cryptowallwallet.vercel.app/
 
 
     Blog: https://yatharthportfolio.vercel.app/
