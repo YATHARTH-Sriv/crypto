@@ -183,7 +183,7 @@ function Page() {
   const generateETH = async () => {
     if (!mnemonic) return
     const mnemonicObject = ethers.Mnemonic.fromPhrase(mnemonic)
-    const wallet = ethers.HDNodeWallet.fromMnemonic(mnemonicObject)
+    // const wallet = ethers.HDNodeWallet.fromMnemonic(mnemonicObject)
     const newAddress = []
     try {
       const path = `m/44'/60'/0'/0/${ethAddresses.length}`
