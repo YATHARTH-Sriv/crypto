@@ -2,11 +2,5 @@
   "name": "Ostrich",
   "symbol": "OST",
   "description": "A beautiful ostrich",
-  "image": "https://raw.githubusercontent.com/your-username/your-repo/main/images/duck.jpg",
-  "attributes": [
-    {
-      "trait_type": "Species",
-      "value": "Mallard"
-    }
-  ]
+  "image": "https://github.com/YATHARTH-Sriv/crypto/blob/main/ostrich.jpg",
 }
