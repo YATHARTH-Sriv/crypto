@@ -1,0 +1,37 @@
+# Ignore Rust build artifacts
+/target/
+/Cargo.lock
+
+# Ignore Solana program binary artifacts
+/*.so
+/*.dSYM
+/*.a
+/*.o
+
+# Ignore Node.js dependencies (if using Anchor)
+node_modules/
+*.tsbuildinfo
+dist/
+.yarn/
+
+# Ignore logs and cache files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.iml
+
+# Ignore Anchor-generated files
+.anchor/
+test-ledger/
+
+# Ignore Rust debugging symbols
+debug/
+release/
+
+# Ignore Solana CLI cache
+/.cache/
